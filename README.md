@@ -18,4 +18,9 @@ Ele funciona com os seguinte:
 6. Chama um web service para salvar os dados em banco!
 
 ## Informações do Sistema
-Utiliza o Selenium com o IWebDriver para automação, se precisar pesquisar outra palavra é necessario alterar o parametro que é enviado na tela Program.cs
+Utiliza o Selenium com o IWebDriver para automação, 
+
+- Se precisar pesquisar outra palavra é necessario alterar o parametro que é enviado na tela Program.cs
+- É necessaro o Sistema de serviço estja rodando.
+- Foram escolhidos o selenium  utilizando o Crhome por conta da poupularidade do shrome.
+
